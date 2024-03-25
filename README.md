@@ -1,1 +1,2 @@
-# BMViT
+# Official PyTorch Implementation of BMViT
+
