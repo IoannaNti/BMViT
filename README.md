@@ -30,8 +30,5 @@ This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Res
     author={Ioanna Ntinou and Enrique Sanchez and Georgios Tzimiropoulos},
     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year={2024},
-    eprint={2312.17686},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
 }
 ```
