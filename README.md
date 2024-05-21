@@ -7,7 +7,7 @@ Official PyTorch implementation of the **[Multiscale Vision Transformers meet Bi
 > Ioanna Ntinou*, Enrique Sanchez* and Georgios Tzimiropoulos<br>
 > *Denotes equal contribution 
 > <br>
-> ![summary](figs/.png)
+> ![summary](figs/graphabs_comparison.png)
 >
 > **Abstract**: 
 
