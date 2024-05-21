@@ -29,6 +29,6 @@ This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Res
     title={Multiscale Vision Transformers Meet Bipartite Matching for Efficient Single-Stage Action Localization},
     author={Ioanna Ntinou and Enrique Sanchez and Georgios Tzimiropoulos},
     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2024},
+    year={2024}
 }
 ```
