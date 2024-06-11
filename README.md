@@ -25,10 +25,12 @@ This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Res
 
 ## Citation
 ```bibtex
-@inproceedings{ntinou2024multiscale,
-    title={Multiscale Vision Transformers Meet Bipartite Matching for Efficient Single-Stage Action Localization},
-    author={Ioanna Ntinou and Enrique Sanchez and Georgios Tzimiropoulos},
-    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2024}
+@InProceedings{Ntinou_2024_CVPR,
+    author    = {Ntinou, Ioanna and Sanchez, Enrique and Tzimiropoulos, Georgios},
+    title     = {Multiscale Vision Transformers Meet Bipartite Matching for Efficient Single-stage Action Localization},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {18827-18836}
 }
 ```
